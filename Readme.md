@@ -1,1 +1,1 @@
-# SnapSell is our FYP in which we are creating a upgraded version of famous E-Commerce Platform OLX with some additional AI Features :)
+# SnapSell is an e-commerce platform with advanced AI features for seamless user experience. Fraud detection and product authentication are its prominent features.
